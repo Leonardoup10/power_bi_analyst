@@ -1,3 +1,12 @@
+# Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
+
+Em um novo desafio de bootcamp da Kablin, agora já sou capaz de ralizar a análise dos dados com base em parâmetros, o que permite analisar os dados, graficos e dashboard de modo muito mais intuitivo e dinamico.
+
+Para visualização do arquivo, partilho o link [Power BI]([url](https://github.com/Leonardoup10/power_bi_analyst/blob/main/relatrio%20criativo_modificado.pbix))
+
+----------------------------------------------------------------------------
+
+
 # Power BI - Analyst
 
 Repositório relacionado a formação de Power BI Analyst dado pelo Bootcamp DIO - NTT DATA Engenharia de Dados com Python
